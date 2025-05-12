@@ -1,2 +1,8 @@
 # Spotify Hit Prediction
 Training a neural network on Spotify API data to determine whether a song will be a hit.
+
+The music industry is a multi-billion dollar sector. While music is an artform, and therefore resonates differently with different people, there may be certain aspects of a song that make it more attractive to a wider audience. Considering the size of this sector, there is great value in understanding what factors make a song popular, as charting can translate to tangible sales of albums, merchandise, and concert tickets.
+
+For our project, we investigate this relationship and aim to learn patterns on what makes a song a “hit” vs. a “flop” based on U.S. Billboard records. The criteria for a “hit” is having been listed on the Billboard Hot-100. With the help of our model, we explore whether we can correctly predict whether a song is a success based on its musical features.  Furthermore, we ask what specific features of a song are most strongly associated with its success, and how this may have changed across different decades.
+
+In order to achieve this goal, we utilize the Spotify Hit Predictor Dataset, which contains 41,099 data points and various descriptors of songs such as artist, track title, genre, danceability, energy, key, loudness, mode (major or minor scale), speechiness, acousticness, instrumentalness, liveness (performed live), tempo, duration (in seconds), time signature, valence (positivity), and popularity (our target variable of hit or flop).
