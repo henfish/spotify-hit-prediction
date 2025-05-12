@@ -1,5 +1,4 @@
-# Spotify Hit Prediction
-Training a neural network on Spotify API data to determine whether a song will be a hit.
+# Spotify Hit Prediction with Neural Networks
 
 The music industry is a multi-billion dollar sector. While music is an artform, and therefore resonates differently with different people, there may be certain aspects of a song that make it more attractive to a wider audience. Considering the size of this sector, there is great value in understanding what factors make a song popular, as charting can translate to tangible sales of albums, merchandise, and concert tickets.
 
